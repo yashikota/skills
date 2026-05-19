@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontend Builder"
+  short_description: "Vite+ React apps with TanStack Router"
+  default_prompt: "Use $frontend-builder to build a Vite+ React frontend with vp and TanStack Router."
